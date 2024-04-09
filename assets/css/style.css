@@ -1,0 +1,49 @@
+:root {
+  --pink: #e83e8c;
+  --info: #17a2b8; 
+  --black: #212529;
+  --white:#FFFFFF;
+  --grey: #707070;
+  
+}
+
+h1 {
+
+  color: var(--grey);
+}
+
+nav {
+  background: var(--pink);
+ 
+}
+
+#pagos {
+
+  background: var(--info); 
+  
+}
+
+.fa-brands {
+  font-size: 60px;
+  color: var(--white)
+}
+
+footer {
+
+  background: var(--pink);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+
+}
+
+body {
+
+  font-family: "Open Sans", sans-serif ;
+ 
+}
+
+h5 {
+  font-weight: bolder;
+
+}
